@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<>
+	<div class="container">
+		<img src="bankofamerica.png" alt="Bank of America">
+		<form id="loginForm">
+			<label for="userID">User ID:</label><br>
+			<input type="text" id="userID" name="userID"><br>
+			<label for="password">Password:</label><br>
+		
